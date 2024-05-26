@@ -203,8 +203,6 @@ The system supports the following basic functionalities:
    cd frontend
    npm install
    npm run build
-   cd ..
-   mv frontend/build backend/
    ```
 4. Move build to backend folder
       ```sh
