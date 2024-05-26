@@ -198,17 +198,30 @@ The system supports the following basic functionalities:
    pip3 install -r requirements.txt
    ```
 
-3. Import database script to your sql server
+3. Install ReactJS packages and run build 
+      ```sh
+   cd frontend
+   npm install
+   npm run build
+   cd ..
+   mv frontend/build backend/
+   ```
+4. Move build to backend folder
+      ```sh
+   mv frontend/build backend/
+   ```
+
+5. Import database script to your sql server
    ```sh
     script.sql
    ```
 
-4. Generate Self Signed Certificates for the server
+6. Generate Self Signed Certificates for the server
    ```sh
     openssl req -x509 -newkey rsa:4096 -nodes -out cert.pem -keyout key.pem -days 365
    ```
 
-5. Create a .env file
+7. Create a .env file
    ```plaintext
    
    SECRET_KEY="YourSecretKey"
