@@ -244,6 +244,19 @@ The system supports the following basic functionalities:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+This project wouldn't be possible without the rest of the members of the P-TEAM:
+
+* [Nuno Rodrigues](https://github.com/nunoniuri)
+* [Diogo Pires](https://github.com/DiogoPires100)
+* [Gabriela Pinto](https://github.com/gabrielammm)
+* [Gonçalo Ranito](https://github.com/ranitoo)
+* [João Patrocinio](https://github.com/patrocinio3123)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- Issues -->
 ## Issues
 
