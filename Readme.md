@@ -1,5 +1,3 @@
-# L4TER-G4TOR
-
 <!-- Project L4TER-G4TOR: https://github.com/FuryCode-bit/L4TER-G4TOR -->
 <a name="readme-top"></a>
 
